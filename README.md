@@ -10,28 +10,6 @@ The system allows users to describe a timed automaton in natural language and in
 
 ---
 
-## 🚀 Project Structure
-
-auto-Uppaal/
-├── backend/
-│ ├── src/
-│ │ ├── api.py
-│ │ ├── main.py
-│ │ ├── pipeline.py
-│ │ ├── llm_client.py
-│ │ ├── verifta_runner.py
-│ │ ├── xml_utils.py
-│ │ └── prompts/
-│ ├── requirements.txt
-│ └── README.md
-│
-└── frontend/
-├── src/
-├── package.json
-└── vite.config.js
-
----
-
 ## ⚙️ Backend Overview
 
 - Uses Flask/FastAPI to handle `/generate` endpoint  
