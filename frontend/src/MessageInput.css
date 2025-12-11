@@ -1,0 +1,34 @@
+.message-input-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  background: #fafafa;
+}
+
+.file-upload-icon {
+  font-size: 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.message-textbox {
+  flex: 1;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+
+.send-button {
+  background: #2b7cff;
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.send-button:hover {
+  background: #1d63cc;
+}

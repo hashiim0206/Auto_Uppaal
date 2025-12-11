@@ -1,0 +1,32 @@
+.main-layout {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.sidebar-container {
+  background: #f7f7f7;
+  border-right: 1px solid #ddd;
+  height: 100%;
+  display: flex;
+}
+
+.drag-handle {
+  width: 6px;
+  cursor: col-resize;
+  background: #e0e0e0;
+  transition: background 0.2s;
+}
+
+.drag-handle:hover {
+  background: #c2c2c2;
+}
+
+.chat-container {
+  flex: 1;
+  height: 100%;
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
