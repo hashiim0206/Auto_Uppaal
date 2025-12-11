@@ -54,14 +54,14 @@ The system allows users to describe a timed automaton in natural language and in
 ## 🏁 How to Run
 
 ### Backend
-cd backend
-pip install -r requirements.txt
-python src/main.py
+- cd backend
+- pip install -r requirements.txt
+- python src/api.py
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ---
 
