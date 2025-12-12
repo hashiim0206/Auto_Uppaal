@@ -76,3 +76,9 @@ The system allows users to describe a timed automaton in natural language and in
 ## 👤 Author
 Hashiim Mohammed Sheriff Sathick Batcha  
 Florida Institute of Technology
+
+---
+
+## 👤 Professor
+Siddhartha Bhattacharyya
+Florida Institute of Technology
